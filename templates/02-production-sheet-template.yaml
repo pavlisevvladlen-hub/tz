@@ -1,0 +1,34 @@
+# Production Sheet Template
+
+# Date and Time
+current_date_time: "2026-03-14 03:06:56"
+
+# User Information
+user_login: "pavlisevvladlen-hub"
+
+# Production Details
+production:
+  item_id: ""
+  item_name: ""
+  quantity_produced: 0
+  production_date: ""
+  shift: ""
+
+# Quality Assurance
+quality_assurance:
+  inspection_date: ""
+  inspector_name: ""
+  defects_found: false
+  notes: ""
+
+# Packaging Details
+packaging:
+  packaging_date: ""
+  packed_by: ""
+  package_type: ""
+
+# Distribution Details
+distribution:
+  distribution_date: ""
+  distributed_by: ""
+  delivery_method: ""
